@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'mrravizapadiya03@gmail.com',
-    phone: '+91 9571982254',
+    phone: '+91 9574982254',
     address: 'Navrangpure, Ahemedabad - 380015 ',
     github: "https://github.com/BytePhantom03",
     facebook: "https://www.facebook.com",
