@@ -39,7 +39,7 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 </p>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://unrivaled-froyo-b2a2c1.netlify.app/" target="_blank">
     <strong>🚀 View Live Demo</strong>
   </a>
 </p>
