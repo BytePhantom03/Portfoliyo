@@ -1,9 +1,9 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'Smart AI Meeting Assistant',
-        description: "Developed an AI-powered meeting assistant to automate meeting transcription, summarization, action item extraction, and knowledge base generation using ASR and LLM technologies. Built scalable backend APIs and asynchronous processing workflows using FastAPI, Celery, and Redis for efficient audio processing and AI-driven meeting analysis. Implemented semantic search and RAG-based chatbot functionality using Pinecone vector database and LLM services to provide context-aware meeting insights and project knowledge retrieval.",
-        tools: ['FastAPI', 'PostgreSQL', 'Pinecone', 'Redis', 'Celery', 'MinIO', 'Sarvam ASR', 'Google Gemini', 'Z.AI', 'Docker'],
+        name: 'Smart Meeting Assistant',
+        description: ".....",
+        tools: ['FastAPI', 'PostgreSQL', 'Pinecone', 'Redis', 'Celery', 'Google Gemini', 'Docker'],
         role: 'AI/ML Engineer',
         code: '',
         demo: '',
